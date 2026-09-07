@@ -1,0 +1,14 @@
+# Build artifacts
+build/
+manual-build/
+out/
+
+# Gradle
+.gradle/
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+build.log
